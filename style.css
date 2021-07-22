@@ -1,0 +1,13 @@
+#main-head{
+height: calc(100vh - 54px);
+background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt2wy7-ob1hAC4BuisExU3kGg0LXjmZNGYeQ&usqp=CAU");
+background-size: cover;
+
+}
+.page-section{
+    padding: 6rem 0;
+    margin-top: 20em;
+}
+.section-subheading{
+margin-bottom: 4rem;
+}
